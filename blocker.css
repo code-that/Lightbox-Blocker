@@ -1,0 +1,18 @@
+[id*="smwoverlay"], /*ultimate modal windows */
+[id*="wow-modal-overlay"], /*wow modal overlay*/
+[id*="om-lightbox"], /*optin monster*/
+[id*="dgd_scrollbox"], /*dreamgrow scroll triggered box*/
+[id*="ppsPopupShell"], /*supsystic popup*/
+[id*="ppsPopupBgOverlay"], /*supsystic popup*/
+
+[class*="snp-pop"], /*ninja popups*/
+.yithpopup_overlay, /*yith popup*/
+.yithpopup_wrapper, /*yith popup*/
+#mkt-popup, /*wpmu dev hustle*/
+#pdv4wrap, /*popup domintaion*/
+#pdv4overlay, /*popup domintaion*/
+#pty_pkg, /*pippity popups*/
+
+#lb-blocker {
+  display: none !important;
+}
